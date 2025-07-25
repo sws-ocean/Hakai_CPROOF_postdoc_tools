@@ -32,9 +32,9 @@ Each subdirectory contains scripts, metadata, and documentation specific to a pr
 
 ## 📂 Data Access
 
-This repository does **not** include raw data. Where possible, instructions for accessing the relevant datasets (e.g., DFO, Hakai, Argo) are provided in each subfolder’s README.
+This repository does **not** include raw data. Where possible, instructions for accessing the relevant datasets (e.g., DFO, Hakai, C-PROOF) are provided in each subfolder’s README.
 
 
 ## 👤 Author
 
-This repository was developed by Sam Stevens during a postdoctoral fellowship at the Hakai Institute. For questions or collaboration, feel free to reach out via GitHub or email.
+This repository was developed by Sam Stevens during a postdoctoral fellowship at the Hakai Institute.

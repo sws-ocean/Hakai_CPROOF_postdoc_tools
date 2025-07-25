@@ -1,8 +1,8 @@
 # DFO Data Access and Processing Tools
 
-This folder contains MATLAB scripts for downloading, loading, and structuring CTD and mooring data from Fisheries and Oceans Canada (DFO), particularly from the [IOS Water Properties archive](https://www.waterproperties.ca/). These tools support analysis of hydrographic sections and time series from moored instruments (e.g., ADCPs and CTDs).
+This folder contains MATLAB scripts for downloading, loading, and structuring CTD and mooring data from Fisheries and Oceans Canada (DFO), particularly from the [IOS Water Properties archive](https://www.waterproperties.ca/). These tools support analysis of hydrographic stations and time series from moored instruments (e.g., ADCPs and CTDs).
 
-Some of the scripts here are adapted from scripts written of Rich Pawlowicz and Ben O’Connor- thanks to them both. 
+Some of the scripts here are adapted from scripts written of Rich Pawlowicz and Ben O’Connor-thanks to them both. 
 
 ## Contents
 
