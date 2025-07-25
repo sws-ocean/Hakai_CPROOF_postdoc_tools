@@ -1,10 +1,10 @@
 # North Pacific Circulation
 
-This folder contains scripts and figures related to the influence of large-scale North Pacific circulation on the composition of water masses reaching the Canadian Pacific margin. The focus is on identifying key circulation modes and their relationship to changes in oxygen and water mass structure along the shelf.
+This folder contains scripts and figures related to the influence of large-scale North Pacific circulation on the composition of water masses reaching the Canadian Pacific margin. The focus is on identifying important circulation modes and their relationship to changes in oxygen and water mass structure along the shelf. This work is (yet) unpublished.
 
 ## Contents
 
-### 📄 Reports
+### Reports
 
 - **`breathing_bifurcation_PCAreport.pdf`**  
   A standalone PDF report documenting an EOF (Empirical Orthogonal Function) analysis of dynamic height anomalies in the North Pacific. It revisits and reproduces Freeland's (2006) breathing and bifurcation modes using dynamic height differences in the N. Pacific.
@@ -12,7 +12,7 @@ This folder contains scripts and figures related to the influence of large-scale
 - **`Can_Pac_water_masses.pdf`**  
   Report describing a mixing analysis on the 26.5 σ₀ isopycnal using temperature–salinity relationships to estimate relative contributions of Pacific Equatorial Water (PEW) and Pacific Subarctic Upper Water (PSUW) at Canadian margin stations. It connects shifts in water mass composition to oxygen variability.
 
-### 📜 Scripts
+### Scripts
 
 - **`breathing_bifurcation.m`**  
   MATLAB code that reconstructs the NPC (North Pacific Current) breathing and bifurcation modes using dynamic height differences across oceanographic stations.
@@ -22,17 +22,6 @@ This folder contains scripts and figures related to the influence of large-scale
 
 - **`subarcticVSequatorial.m`**  
   Projects observed T–S points onto the PEW–PSUW mixing line to calculate fractional contributions from each water mass.
-
-### 📘 README
-
-- **`README.md`**  
-  This file. Provides documentation for the folder contents and methodology.
-
-## Notes
-
-- All scripts are written in MATLAB.
-- GLORYS reanalysis data and observational profiles on isopycnals (e.g., 26.5 σ₀) are assumed as input.
-- This folder supports (yet) unpublished work examining links between shelf deoxygenation and offshore circulation variability.
 
 ## References
 
