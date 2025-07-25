@@ -7,25 +7,26 @@ This repository provides MATLAB and python scripts and resources developed prima
 Each subdirectory contains scripts, metadata, and documentation specific to a project:
 
 - [`glider_processing/`](glider_processing/):  
-  Tools for working with regional ocean glider data, including preprocessing, oxygen sensor corrections, and structuring for analysis.
+  Tools for preprocessing regional ocean glider data, including oxygen sensor corrections and data structuring.
 
 - [`dfo_processing/`](dfo_processing/):  
-  Scripts for accessing and processing CTD, bottle, and mooring data from Fisheries and Oceans Canada (DFO) databases.
+  Scripts for processing CTD, bottle, and mooring data from Fisheries and Oceans Canada (DFO) databases.
 
 - [`qcs_oxygen/`](qcs_oxygen/):  
   Analysis code for the manuscript "Oxygen variability on the Canadian Pacific shelf: trends, drivers, and projections in the context of emerging hypoxia in Queen Charlotte Sound".
 
 - [`centralcoast/`](centralcoast/):  
-  MATLAB implementation of Optimum Multiparameter (OMP) analysis for attributing water mass contributions in Central Coast datasets.
+  Scripts and figures related to oxygen variability and water mass analysis in the Central Coast of British Columbia, with a focus on the deep renewal layer in Fitz Hugh Sound and Burke, Dean, and Rivers Inlets.
 
 - [`np_circulation/`](np_circulation/):  
-  Scripts for analyzing large-scale circulation patterns in the northeast Pacific related to the Canadian Pacific.
+  Scripts and PDF reports analyzing large-scale circulation in the northeast Pacific, with emphasis on water mass pathways influencing the Canadian Pacific.
 
 ## 🛠 Requirements
 
-- MATLAB Toolboxes:
+- I frequently use these MATLAB toolboxes:
   - Gibbs SeaWater Toolbox
   - m_map toolbox
+  - cmocean toolbox
 
 ## 📂 Data Access
 
