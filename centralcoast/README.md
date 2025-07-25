@@ -26,7 +26,7 @@ The code includes tools for solving the Optimum Multiparameter (OMP) mixing prob
 - **CCDWR Metrics** (`CCDWR.m`) defines the timing and extent of Central Coast deep water renewal events. 
 
 ## Dataset
-- When using Hakai Institute CTD data, I tend to download .mat files from the [Hakai Institute ERDDAP server](https://catalogue.hakai.org/erddap/index.html) and work from them. DFO CTD data are sourced from the IOS [waterproperties.ca](waterproperties.ca) archive [see this README for DFO data workflow](../dfo_processing/README.md)
+- When using Hakai Institute CTD data, I tend to download .mat files from the [Hakai Institute ERDDAP server](https://catalogue.hakai.org/erddap/index.html) and work from them. DFO CTD data are sourced from the IOS [waterproperties.ca](waterproperties.ca) archive [(see this README for DFO data workflow)](../dfo_processing/README.md)
 
 ## Requirements
 
