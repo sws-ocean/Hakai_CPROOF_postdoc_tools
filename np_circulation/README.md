@@ -11,6 +11,10 @@ This folder contains scripts and figures related to the influence of large-scale
 
 - **`Can_Pac_water_masses.pdf`**  
   Report describing a mixing analysis on the 26.5 σ₀ isopycnal using temperature–salinity relationships to estimate relative contributions of Pacific Equatorial Water (PEW) and Pacific Subarctic Upper Water (PSUW) at Canadian margin stations. It connects shifts in water mass composition to oxygen variability.
+  
+### Trajectories
+- **`allTraj_26_5.jpg`**
+  Backward particle tracking experiments using 3D monthly velocity fields from the ORAS5 ocean reanalysis (1/4° horizontal resolution, 75 vertical levels). Particles are initialized along cross-shelf transects and tracked backward in time using the Parcels Lagrangian framework. Parcels is used to advect particles on the σ₀ = 26.5 isopycnal surface. A stochastic diffusion scheme with horizontal diffusivity set to 100 m²/s is applied to account for unresolved mesoscale motions.
 
 ### Scripts
 
