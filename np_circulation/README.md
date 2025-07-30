@@ -14,7 +14,7 @@ This folder contains scripts and figures related to the influence of large-scale
   
 ### Trajectories
 - **`allTraj_26_5.jpg`**
-  Backward particle tracking experiments using 3D monthly velocity fields from the ORAS5 ocean reanalysis (1/4° horizontal resolution, 75 vertical levels). Particles are initialized along cross-shelf transects and tracked backward in time using the Parcels Lagrangian framework. Parcels is used to advect particles on the σ₀ = 26.5 isopycnal surface. A stochastic diffusion scheme with horizontal diffusivity set to 100 m²/s is applied to account for unresolved mesoscale motions.
+  Backward particle tracking experiments from August 2023 to August 2014 using 3D monthly velocity fields from the ORAS5 ocean reanalysis (1/4° horizontal resolution, 75 vertical levels). Particles are initialized along cross-shelf transects and tracked backward in time using the Parcels Lagrangian framework. Parcels is used to advect particles on the σ₀ = 26.5 isopycnal surface. A stochastic diffusion scheme with horizontal diffusivity set to 100 m²/s is applied to account for unresolved mesoscale motions.
 
 ### Scripts
 
